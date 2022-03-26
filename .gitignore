@@ -1,0 +1,7 @@
+imagecache/*
+tilecache/*
+db/*
+datasources/*
+.venv
+.vscode
+__pycache__
